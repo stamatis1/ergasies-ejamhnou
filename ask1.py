@@ -95,8 +95,7 @@ for i in range(99):
                    elif my_list[i+18]=='C'  and   my_list[i+21]=='B' and my_list[i+24]=='A':
                         flag = 1
                    elif my_list[i+6]=='C'  and    my_list[i+12]=='B' and my_list[i+18]=='A':
-                        flag = 1
-    print(flag)       
+                        flag = 1       
                         
                        
 
