@@ -107,5 +107,5 @@ for i in range(99):
 
 
 MO=syn/100  
-print("o MO einai :" MO)
+print("o MO kinhsewn einai :" ,MO,)
 
